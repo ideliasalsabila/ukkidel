@@ -1,0 +1,18 @@
+CRITICAL - 2022-04-18 04:57:47 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\ukkidel\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\ukkidel\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\ukkidel\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\ukkidel\spark(45): require('C:\\ukkidel\\syst...')
+#4 {main}
+CRITICAL - 2022-04-18 04:58:48 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\ukkidel\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\ukkidel\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\ukkidel\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\ukkidel\spark(45): require('C:\\ukkidel\\syst...')
+#4 {main}
+CRITICAL - 2022-04-18 04:59:06 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\ukkidel\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\ukkidel\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\ukkidel\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\ukkidel\spark(45): require('C:\\ukkidel\\syst...')
+#4 {main}
